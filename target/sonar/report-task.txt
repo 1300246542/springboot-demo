@@ -1,0 +1,6 @@
+projectKey=com.expamle:springboot-demo
+serverUrl=http://100.6.15.5:9000/sonar
+serverVersion=6.7.4.38452
+dashboardUrl=http://100.6.15.5:9000/sonar/dashboard/index/com.expamle:springboot-demo
+ceTaskId=AWo6KYyoqYa4LrJSewT8
+ceTaskUrl=http://100.6.15.5:9000/sonar/api/ce/task?id=AWo6KYyoqYa4LrJSewT8
