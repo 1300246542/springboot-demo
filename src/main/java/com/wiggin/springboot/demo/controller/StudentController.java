@@ -28,6 +28,7 @@ public class StudentController {
 	@RequestMapping(value = "/getStudent")
     public Student getStudent(int id){
         System.out.println("进入方法getStudent。。。");
+        System.out.println("master分支修改了此内容。。。");
         return service.queryById(id);
     }
 	
